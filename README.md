@@ -1,6 +1,8 @@
 # Hi there 👋 it's Umair here my friends call me bingJunior 
 
-<img src="https://i.imgur.com/HgN8w2l.gif"/>
+<div align="center">
+<img src="https://i.imgur.com/HgN8w2l.gif" align="centre"/>
+</div>
 
 - 🔭 I’m currently working on Android and GCP
 
