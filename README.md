@@ -16,7 +16,8 @@
 
 - ⚡ Fun fact: I speak fluent sarcasm and love FRIENDS❤
 
-- 📫 How to reach me:
+- 📫 How to reach me:  **LinkedIn is preferred**   [![alt text][4.1]][4]
+
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
