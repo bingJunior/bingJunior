@@ -22,35 +22,35 @@
 
 <!-- display the social media buttons in your README -->
 
-[![alt text][1.1]][1]
+[![alt text][1.1]][1]   **Twitter**
 
-[![alt text][2.1]][2]
+[![alt text][2.1]][2]   **Facebook**
 
-[![alt text][3.1]][3]
+[![alt text][3.1]][3]   **Instagram**
 
-[![alt text][4.1]][4]
+[![alt text][4.1]][4]   **LinkedIn**
 
-[![alt text][5.1]][5]
+[![alt text][5.1]][5]   **Discord**
 
-[![alt text][6.1]][6]
+[![alt text][6.1]][6]   **Github**
 
-[![alt text][7.1]][7]
+[![alt text][7.1]][7]   **Qwiklabs**
 
 <!-- links to social media icons -->
 
-[1.1]: https://i.imgur.com/kuH8mcP.png (Twitter)
+[1.1]: https://i.imgur.com/kuH8mcP.png 
 
-[2.1]: https://i.imgur.com/klASuIl.png (Facebook)
+[2.1]: https://i.imgur.com/klASuIl.png 
 
-[3.1]: https://i.imgur.com/5pJX7ys.png (Instagram)
+[3.1]: https://i.imgur.com/5pJX7ys.png 
 
-[4.1]: https://i.imgur.com/VcXtps9.png (LinkedIn)
+[4.1]: https://i.imgur.com/VcXtps9.png 
 
-[5.1]: https://i.imgur.com/gtf0sR4.png (Discord)
+[5.1]: https://i.imgur.com/gtf0sR4.png 
 
-[6.1]: https://i.imgur.com/aAEq7Xh.png (Github)
+[6.1]: https://i.imgur.com/aAEq7Xh.png 
 
-[7.1]: https://i.imgur.com/hAJIQc3.png?1 (Qwiklabs)
+[7.1]: https://i.imgur.com/hAJIQc3.png?1 
 
 <!-- links to your social media accounts -->
 
