@@ -14,7 +14,7 @@
 
 - 😄 Pronouns: Optimistic Fast Learner Team Player Excellent time and task management Introvert 
 
-- ⚡ Fun fact: I speak fluent sarcasm and love FRIENDS❤
+- ⚡ Fun fact: I speak fluent sarcasm and FRIENDS is ❤
 
 - 📫 How to reach me:  **LinkedIn is preferred**   [![alt text][4.1]][4]
 
