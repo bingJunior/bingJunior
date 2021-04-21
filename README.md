@@ -1,4 +1,4 @@
-# Hi there 👋 it's Umair here my friends call me bingJunior 
+# Hi there 👋 my name is Umair Tariq my friends call me bingJunior.
 
 <div align="center">
 <img src="https://i.imgur.com/HgN8w2l.gif" align="centre"/>
